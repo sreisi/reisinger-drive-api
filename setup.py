@@ -13,7 +13,7 @@ setup(
     version="0.2.1",
     description="A python3 library to communicate with a Reisinger Drive System",
     long_description=long_description,
-    long_description_content_type='text/markdown'
+    long_description_content_type='text/markdown',
     python_requires=">=3.5.3",
     author="sreisi",
     author_email="",
