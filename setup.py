@@ -7,7 +7,7 @@ setup(
     version="0.2.1",
     description="A python3 library to communicate with a Reisinger Drive System",
     python_requires=">=3.5.3",
-    author="Manni",
+    author="sreisi",
     author_email="",
     url="https://github.com/sreisi/reisinger-drive-api",
     license="MIT",
