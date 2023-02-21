@@ -10,7 +10,7 @@ setup(
     name="reisinger_drive",
     packages=["reisingerdrive"],
     install_requires=["aiohttp>=3.0.6", "async_timeout>=3.0.0"],
-    version="0.2.2",
+    version="0.2.3",
     description="A python3 library to communicate with a Reisinger Drive System",
     long_description=long_description,
     long_description_content_type='text/markdown',
