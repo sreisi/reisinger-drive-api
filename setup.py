@@ -16,7 +16,7 @@ setup(
     long_description_content_type='text/markdown',
     python_requires=">=3.5.3",
     author="sreisi",
-    author_email="",
+    author_email="sell@reisinger.de",
     url="https://github.com/sreisi/reisinger-drive-api",
     license="MIT",
     classifiers=[
